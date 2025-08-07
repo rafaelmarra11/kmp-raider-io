@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scores_label">Scores</string>
+    <string name="search_button_label">Search</string>
+    <string name="character_name_label">Character name</string>
+    <string name="region_text_label">Region</string>
+    <string name="server_text_label">Server</string>
+    <string name="search_error_message">Search Error</string>
+    <string name="score_role_label">%1$s:</string>
+</resources>
